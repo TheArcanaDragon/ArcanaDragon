@@ -1,4 +1,4 @@
-# ArcanaDragon
+# Arcana Dragon
 
 You can post bug reports about Delhanro here.
 
